@@ -2,7 +2,6 @@
 #include <stdio.h>
 int main()
 {
-    printf("hello world!\n");
-    printf("hi,everyone");
+    printf("hello vasanthi!\n");
     return 0;
 }
